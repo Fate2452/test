@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "videohead": "../../components/videohead/videohead",
+    "video-list": "../../components/videoList/videoList"
+  }
+}

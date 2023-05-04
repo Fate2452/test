@@ -1,0 +1,81 @@
+{
+  "pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+    {
+      "path": "pages/index/index",
+      "style": {
+
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/xiaoxi/xiaoxi",
+      "style": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/zhao/zhao",
+      "style": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/home/home",
+      "style": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/shezhi/shezhi",
+      "style": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": false
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "backgroundColor": "#005075",
+    "color": "#f9f9f9",
+    "list": [{
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/unhome.png",
+        "selectedIconPath": "static/images/home.png"
+      },
+      {
+        "text": "消息",
+        "pagePath": "pages/xiaoxi/xiaoxi",
+        "iconPath": "static/images/unxiaoxi.png",
+        "selectedIconPath": "static/images/xiaoxi.png"
+      },
+      {
+        "text": "公益招聘",
+        "pagePath": "pages/zhao/zhao",
+        "iconPath": "static/images/unzhao.png",
+        "selectedIconPath": "static/images/zhao.png"
+      },
+      {
+        "text": "主页",
+        "pagePath": "pages/home/home",
+        "iconPath": "static/images/unvideo.png",
+        "selectedIconPath": "static/images/video.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/shezhi/shezhi",
+        "iconPath": "static/images/unshezhi.png",
+        "selectedIconPath": "static/images/shezhi.png"
+      }
+    ]
+  }
+}

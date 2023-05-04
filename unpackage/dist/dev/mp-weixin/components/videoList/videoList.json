@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "video-play": "../videoPlay/videoPlay",
+    "video-right": "../videoRight/videoRight",
+    "video-left": "../videoLeft/videoLeft"
+  }
+}

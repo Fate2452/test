@@ -1,0 +1,36 @@
+
+.listLeft {
+    height: 120px;
+    margin-left: 10px;
+    color: #FFFFFF;
+    width: 230px;
+}
+.author {
+    margin-top: 5px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 20px;
+    color: #f4ea2a;
+}
+.weizhi {
+    margin-top: 5px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 20px;
+}
+.title-box {
+    margin-top: 5px;
+}
+.title {
+
+    margin-left: 30px;
+    display: inline-block;
+    line-height: 20px;
+    font-size: 13px;
+    width: 100%;
+    word-wrap: break-word;
+}
+.biaozhi {
+    font-size: 20px;
+    position: absolute;
+}

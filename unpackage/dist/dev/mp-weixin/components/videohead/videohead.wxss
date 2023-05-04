@@ -1,0 +1,45 @@
+
+.head.data-v-befdcf75 {
+    width: 100%;
+    position: fixed;
+    top: 25px;
+    left: 0;
+    height: 70px;
+    color: #ffffff;
+    z-index: 20;
+}
+.head-icon.data-v-befdcf75 {
+    position: absolute;
+    left: 10px;
+    top: 1px;
+    font-size: 20px;
+}
+.bottom-icon.data-v-befdcf75 {
+    position: absolute;
+    left: 90%;
+    top: 38px;
+    font-size: 30px;
+    color: #21fa3a;
+}
+.middle.data-v-befdcf75 {
+    position: absolute;
+    left: 80rpx;
+    top: 0px;
+}
+.bottom.data-v-befdcf75 {
+    position: absolute;
+    width: 100%;
+    height: 40px;
+    left: 5px;
+    top: 40px;
+}
+.bottom .item.data-v-befdcf75 {
+    width: 40px;
+    margin-right: 25px;
+}
+.head .bottom text.data-v-befdcf75:nth-child(3) {
+    color: #e6d614f5;
+}
+.head .bottom .active.data-v-befdcf75 {
+    font-size: 20px;
+}

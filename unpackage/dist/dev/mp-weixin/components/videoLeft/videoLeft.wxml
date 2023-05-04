@@ -1,0 +1,1 @@
+<view class="listLeft"><view class="author"><text class="iconfont icon-renzheng2 biaozhi"></text><view class="title">{{a}}</view></view><view class="title-box"><text class="iconfont icon-wenben biaozhi"></text><view class="title">{{b}}</view></view><view class="weizhi"><text class="iconfont icon-didian biaozhi"></text><view class="title">上海市</view></view></view>

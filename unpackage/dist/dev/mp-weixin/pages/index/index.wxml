@@ -1,0 +1,1 @@
+<view class="index"><videohead u-i="6a559a9a-0" bind:__l="__l"></videohead><video-list u-i="6a559a9a-1" bind:__l="__l"></video-list></view>

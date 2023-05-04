@@ -1,0 +1,40 @@
+
+.listright {
+    width: 50px;
+    margin: 0 auto;
+}
+.author-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 3px solid #FFFFFF;
+    position: relative;
+}
+.right-box {
+    width: 50px;
+    height: 40px;
+    margin-top: 13px;
+    text-align: center;
+    line-height: 40px;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.number {
+    font-size: 10px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.add {
+
+    position: absolute;
+    bottom: -9px;
+    left: 16px;
+    text-align: center;
+    line-height: 18px;
+    color: #ff0707
+}
